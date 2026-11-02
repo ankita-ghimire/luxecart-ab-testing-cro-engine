@@ -59,3 +59,9 @@ An interactive financial model built to forecast annualized revenue lift based o
     Double Down on Mobile UX: Mobile generated the highest absolute conversion rate (9.69%). Continue optimizing mobile-first payment integrations  (Apple Pay, Google Pay).
 
     Monitor Guardrail Metrics: Maintain continuous tracking on Average Order Value (AOV) and return rates to ensure 1-click ease does not inflate impulse cancellations.
+
+## 📊 Interactive Tableau Dashboard
+Explore the live, interactive executive dashboard here:  
+**[Click here to view on Tableau Public](https://public.tableau.com/app/profile/bliss.bliss/viz/LuxeCartABTestingDashboard/LuxeCartABTestExperimentationDashboard?publish=yes)**
+
+![LuxeCart Dashboard](Dashboard.png)
